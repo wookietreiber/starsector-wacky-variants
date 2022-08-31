@@ -1,0 +1,37 @@
+{
+    "displayName": "Raider",
+    "fluxCapacitors": 12,
+    "fluxVents": 17,
+    "goalVariant": true,
+    "hullId": "wv_lp_manticore",
+    "hullMods": [
+        "safetyoverrides",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "variantId": "wv_lp_manticore_Raider",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "typhoon",
+                "WS 005": "typhoon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS 000": "devastator"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "railgun",
+                "WS 002": "railgun",
+                "WS 003": "railgun"
+            }
+        },
+    ]
+}
