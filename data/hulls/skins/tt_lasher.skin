@@ -1,0 +1,25 @@
+{
+    "baseHullId":"lasher",
+    "skinHullId":"wv_tt_lasher",
+    "hullName":"Lasher (TT)",
+    "descriptionId":"lasher",
+    "baseValueMult":0.8,
+    "descriptionPrefix":"This ship has been thoroughly overhauled by the Tri-Tachyon corporation. Tri-Tachyon compliant software patches have been installed which are fully integrated with TriPad (R) status monitoring protocols, high-spec flux conduit upgrades performed, and weapon attachment points refurbished for mounting advanced energy weapons.",
+    "tags":["hightech_bp"],
+    "tech":"Tri-Tachyon",
+    "systemId":"highenergyfocus",
+    "weaponSlotChanges":{
+        "WS 002":{"type": "ENERGY"},
+        "WS 003":{"type": "ENERGY"},
+        "WS 005":{"type": "ENERGY"},
+        "WS 006":{"type": "ENERGY"},
+        "WS 007":{"type": "ENERGY"},
+    },
+    "engineSlotChanges":{
+        "0":{"style":"HIGH_TECH"},
+        "1":{"style":"HIGH_TECH"},
+        "2":{"style":"HIGH_TECH"},
+        "3":{"style":"HIGH_TECH"},
+        "4":{"style":"HIGH_TECH"},
+    },
+}

@@ -1,0 +1,42 @@
+{
+    "displayName": "TriTach",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "wv_tt_lasher",
+    "permaMods": [],
+    "variantId": "wv_tt_lasher_TriTach",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "irpulse",
+                "WS 003": "irpulse",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "heatseeker",
+                "WS 004": "heatseeker",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "ioncannon",
+                "WS 006": "ioncannon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "pdburst",
+            }
+        },
+    ]
+}

@@ -1,4 +1,12 @@
 {
+    "combatSmallForSmallFleet":{
+        "wv_tt_lasher_TriTach":10,
+    },
+
+    "combatSmall":{
+        "wv_tt_lasher_TriTach":10,
+    },
+
     "combatMedium":{
         "wv_lp_sunder_Raider":10,
         "wv_lp_manticore_Raider":10,
