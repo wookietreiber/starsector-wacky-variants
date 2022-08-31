@@ -1,0 +1,23 @@
+{
+    "baseHullId":"sunder",
+    "skinHullId":"wv_lp_sunder",
+    "hullName":"Sunder (LP)",
+    "descriptionId":"sunder",
+    "descriptionPrefix":"Fanatics of the Luddic Path have made this ship their own, stripping out all unnecessary furnishing and transforming it into a haphazard vehicle of holy war.",
+    "baseValueMult":0.8,
+    "tags":["LP_bp"],
+    "tech":"Luddic Path",
+    "systemId":"ammofeed",
+    "builtInMods":["ill_advised","safetyoverrides"],
+    "weaponSlotChanges":{
+        "WS 002":{"type": "BALLISTIC"},
+        "WS 003":{"type": "BALLISTIC"},
+        "WS 004":{"type": "BALLISTIC"},
+    },
+    "engineSlotChanges":{
+        "0":{"style":"LOW_TECH"},
+        "1":{"style":"LOW_TECH"},
+        "2":{"style":"LOW_TECH"},
+        "3":{"style":"LOW_TECH"},
+    },
+}
